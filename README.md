@@ -24,7 +24,7 @@
 📫 **Connect with me**:
 - [LinkedIn](www.linkedin.com/in/afajal-ansari-b22322230)
 - [Email](afjalsalim74@gmail.com)
-- [Portfolio](Soon be added)
+- [Portfolio](https://github.com/Ansari4003/jobportal)
 
 ⚡ **Fun Fact**: I'm on a mission to turn coffee ☕ into working code 💻!
 
